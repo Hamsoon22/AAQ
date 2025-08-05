@@ -1,5 +1,4 @@
 # AAQ
-# AAQ
 # 🧠 ACT Acceptance Questionnaire
 
 A mobile-friendly self-assessment tool built with React to measure psychological flexibility based on Acceptance and Commitment Therapy (ACT).
