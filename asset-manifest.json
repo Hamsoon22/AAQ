@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hamsoon22/AAQ.git/static/css/main.ea15e33f.css",
+    "main.js": "/Hamsoon22/AAQ.git/static/js/main.69c19aed.js",
+    "index.html": "/Hamsoon22/AAQ.git/index.html",
+    "main.ea15e33f.css.map": "/Hamsoon22/AAQ.git/static/css/main.ea15e33f.css.map",
+    "main.69c19aed.js.map": "/Hamsoon22/AAQ.git/static/js/main.69c19aed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea15e33f.css",
+    "static/js/main.69c19aed.js"
+  ]
+}
